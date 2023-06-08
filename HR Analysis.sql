@@ -1,4 +1,5 @@
 CREATE DATABASE HumanResource;
+GO
 USE HumanResource;
 
 --checking datatype
